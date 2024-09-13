@@ -2,9 +2,7 @@
 
 ## Heavy Directory Structure
 
-The `heavy` directory is used to store media files that are not tracked by Git. Please ensure that the following folder structure is maintained within the `heavy` directory:
-
-heavy/
+Please put all files on your harddrive in the Nyersanyagok directory.
 
 ├── Nyersanyagok/
 
@@ -29,7 +27,6 @@ Please be wise that in order for this setup to work correctly, all media files t
 ## Notes
 
 - Ensure all media files are placed in the appropriate folders.
-- This `heavy` directory is added to `.gitignore` and should not be tracked by Git. Any media files should be placed here locally but will not be included in the repository.
 
 ## Release
 
