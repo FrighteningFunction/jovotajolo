@@ -99,7 +99,7 @@ def process_presentations(ppt_folder, output_folder):
 
 if __name__ == "__main__":
     # User should only provide relative directory paths!
-    ppt_folder = "word fajlok es pptk"  # Replace with the relative path to the presentations
+    ppt_folder = "uj_pptk"  # Replace with the relative path to the presentations
     output_folder = "PNG_OUTPUT"  # Replace with the relative path to the output folder
 
     print(f"Starting export process for presentations in: {ppt_folder}")
